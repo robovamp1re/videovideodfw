@@ -32,6 +32,10 @@ body.menu-open {
   border-bottom: 2px solid var(--yellow);
 }
 
+.cool a:hover {
+  background: var(--yellow);
+}
+
 .site-header {
   position: fixed;
   inset: 0 0 auto 0;
@@ -42,6 +46,8 @@ body.menu-open {
   padding: 0 4.5vw;
   z-index: 20;
   pointer-events: none;
+  background-color:#fff;
+  border-bottom: 1px solid #e7e7e7;
 }
 
 .brand-mark,
@@ -113,7 +119,7 @@ h1 {
   margin: 26px 0 0;
   font-size: clamp(2.85rem, 2vw, 1.75rem);
   padding-left: 0em;
-  font-weight: 00;
+  font-weight: bold;
 }
 
 .rule {
