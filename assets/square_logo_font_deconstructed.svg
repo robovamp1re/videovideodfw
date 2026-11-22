@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg Version="5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" Template="No">  <DocumentRef id="E930F7AC-34DF-4686-B88D-62CF1CC3BDD8" DateTime="20261031T020540">
+    <XRef id="0BEB25D9-D65B-4FB1-9062-56FB0349225B" DateTime="20261031T020539"></XRef>
+  </DocumentRef>
+  <defs>
+    <style>
+      .cls-1{fill:#ffffff;stroke:#000000;stroke-width:32;stroke-miterlimit:10}
+      .cls-2{fill:#000000;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10}
+    </style>
+  </defs>
+  <title>Untitled-1</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M17.477 17.872 L1062.477 17.872 L1062.477 1062.872 L17.477 1062.872 Z" class="cls-1"></path>
+    <g>
+      <path d="M185.66 524.545 L117.16 325.199 L170.006 325.199 L197.834 412.564 C202.116 426.924 206.397 441.908 210.678 457.517 C214.959 473.125 219.285 489.492 223.656 506.617 L211.347 506.617 C215.628 489.492 219.798 473.125 223.856 457.517 C227.915 441.908 232.04 426.924 236.232 412.564 L262.99 325.199 L315.167 325.199 L248.541 524.545 Z" class="cls-2"></path>
+      <path d="M380.189 325.199 L380.189 524.545 L332.426 524.545 L332.426 325.199 Z" class="cls-2"></path>
+      <path d="M482.002 524.545 L428.888 524.545 L428.888 484.275 L479.728 484.275 C491.591 484.275 501.469 482.178 509.362 477.986 C517.256 473.794 523.165 467.306 527.089 458.52 C531.014 449.735 532.976 438.519 532.976 424.872 C532.976 411.136 530.992 399.898 527.022 391.157 C523.053 382.416 517.077 375.95 509.095 371.758 C501.112 367.566 491.1 365.47 479.059 365.47 L428.085 365.47 L428.085 325.199 L482.002 325.199 C502.249 325.199 519.753 329.235 534.515 337.307 C549.276 345.379 560.693 356.863 568.765 371.758 C576.837 386.653 580.873 404.358 580.873 424.872 C580.873 445.386 576.859 463.091 568.832 477.986 C560.804 492.882 549.41 504.365 534.648 512.437 C519.887 520.509 502.338 524.545 482.002 524.545 Z M456.047 325.199 L456.047 524.545 L408.285 524.545 L408.285 325.199 Z" class="cls-2"></path>
+      <path d="M603.75 524.545 L603.75 325.199 L747.708 325.199 L747.708 365.068 L651.513 365.068 L651.513 404.67 L740.215 404.67 L740.215 443.603 L651.513 443.603 L651.513 484.676 L747.708 484.676 L747.708 524.545 Z" class="cls-2"></path>
+      <path d="M862.231 527.488 C844.303 527.488 828.137 523.452 813.732 515.38 C799.328 507.309 787.956 495.647 779.616 480.395 C771.277 465.143 767.107 446.68 767.107 425.006 C767.107 403.154 771.277 384.579 779.616 369.283 C787.956 353.986 799.328 342.324 813.732 334.297 C828.137 326.27 844.303 322.256 862.231 322.256 C880.159 322.256 896.28 326.27 910.596 334.297 C924.911 342.324 936.283 353.986 944.712 369.283 C953.141 384.579 957.355 403.154 957.355 425.006 C957.355 446.68 953.141 465.165 944.712 480.462 C936.283 495.758 924.911 507.42 910.596 515.447 C896.28 523.475 880.159 527.488 862.231 527.488 Z M862.231 485.746 C871.775 485.746 880.047 483.383 887.049 478.655 C894.05 473.928 899.447 467.038 903.237 457.985 C907.028 448.932 908.923 437.939 908.923 425.006 C908.923 411.984 907.028 400.924 903.237 391.826 C899.447 382.729 894.05 375.816 887.049 371.089 C880.047 366.362 871.775 363.998 862.231 363.998 C852.687 363.998 844.415 366.362 837.413 371.089 C830.411 375.816 824.993 382.729 821.158 391.826 C817.322 400.924 815.405 411.984 815.405 425.006 C815.405 437.939 817.322 448.932 821.158 457.985 C824.993 467.038 830.411 473.928 837.413 478.655 C844.415 483.383 852.687 485.746 862.231 485.746 Z" class="cls-2"></path>
+      <path d="M185.66 755.545 L117.16 556.199 L170.006 556.199 L197.834 643.564 C202.116 657.924 206.397 672.908 210.678 688.517 C214.959 704.125 219.285 720.492 223.656 737.617 L211.347 737.617 C215.628 720.492 219.798 704.125 223.856 688.517 C227.915 672.908 232.04 657.924 236.232 643.564 L262.99 556.199 L315.167 556.199 L248.541 755.545 Z" class="cls-2"></path>
+      <path d="M380.189 556.199 L380.189 755.545 L332.426 755.545 L332.426 556.199 Z" class="cls-2"></path>
+      <path d="M482.002 755.545 L428.888 755.545 L428.888 715.275 L479.728 715.275 C491.591 715.275 501.469 713.178 509.362 708.986 C517.256 704.794 523.165 698.306 527.089 689.52 C531.014 680.735 532.976 669.519 532.976 655.872 C532.976 642.136 530.992 630.898 527.022 622.157 C523.053 613.416 517.077 606.95 509.095 602.758 C501.112 598.566 491.1 596.47 479.059 596.47 L428.085 596.47 L428.085 556.199 L482.002 556.199 C502.249 556.199 519.753 560.235 534.515 568.307 C549.276 576.379 560.693 587.863 568.765 602.758 C576.837 617.653 580.873 635.358 580.873 655.872 C580.873 676.386 576.859 694.091 568.832 708.986 C560.804 723.882 549.41 735.365 534.648 743.437 C519.887 751.509 502.338 755.545 482.002 755.545 Z M456.047 556.199 L456.047 755.545 L408.285 755.545 L408.285 556.199 Z" class="cls-2"></path>
+      <path d="M603.75 755.545 L603.75 556.199 L747.708 556.199 L747.708 596.068 L651.513 596.068 L651.513 635.67 L740.215 635.67 L740.215 674.603 L651.513 674.603 L651.513 715.676 L747.708 715.676 L747.708 755.545 Z" class="cls-2"></path>
+      <path d="M862.231 758.488 C844.303 758.488 828.137 754.452 813.732 746.38 C799.328 738.309 787.956 726.647 779.616 711.395 C771.277 696.143 767.107 677.68 767.107 656.006 C767.107 634.154 771.277 615.579 779.616 600.283 C787.956 584.986 799.328 573.324 813.732 565.297 C828.137 557.27 844.303 553.256 862.231 553.256 C880.159 553.256 896.28 557.27 910.596 565.297 C924.911 573.324 936.283 584.986 944.712 600.283 C953.141 615.579 957.355 634.154 957.355 656.006 C957.355 677.68 953.141 696.165 944.712 711.462 C936.283 726.758 924.911 738.42 910.596 746.447 C896.28 754.475 880.159 758.488 862.231 758.488 Z M862.231 716.746 C871.775 716.746 880.047 714.383 887.049 709.655 C894.05 704.928 899.447 698.038 903.237 688.985 C907.028 679.932 908.923 668.939 908.923 656.006 C908.923 642.984 907.028 631.924 903.237 622.826 C899.447 613.729 894.05 606.816 887.049 602.089 C880.047 597.362 871.775 594.998 862.231 594.998 C852.687 594.998 844.415 597.362 837.413 602.089 C830.411 606.816 824.993 613.729 821.158 622.826 C817.322 631.924 815.405 642.984 815.405 656.006 C815.405 668.939 817.322 679.932 821.158 688.985 C824.993 698.038 830.411 704.928 837.413 709.655 C844.415 714.383 852.687 716.746 862.231 716.746 Z" class="cls-2"></path>
+    </g>
+  </g>
+  <HeaderAndFooter HeaderFirstPage="No" FooterVisible="No" FooterFirstPage="Yes" StartingPage="1" HeaderVisible="Yes">
+    <Header>
+      <Paragraph Alignment="Right" Leading="Regular" FirstIndent="0.00" StartsNewPage="No" RightIndent="-1.25" LeftIndent="1.25" SpaceBefore="0" Spacing="1">
+        <Text AdornmentStyle="0" Size="12" Color="#000000000000" Style="" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"> </Text>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" Leading="Regular" FirstIndent="0.00" StartsNewPage="No" RightIndent="-1.25" LeftIndent="1.25" SpaceBefore="0" Spacing="1">
+        <Text AdornmentStyle="0" Size="12" Color="#000000000000" Style="" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+  <Revisions ActiveSet="1" ShowPageColor="No" RevisionsShown="Active" ShowAllMarks="Yes" Location="7.75" ShowAllSets="Yes" RevisionMode="No">
+    <Revision PageColor="#DD6B08C206A2" Mark="*" Color="#DD6B08C206A2" Style="" Name="First Revision" ID="1" FullRevision="No"></Revision>
+    <Revision PageColor="#00000000D400" Mark="*" Color="#00000000D400" Style="" Name="Second Revision" ID="2" FullRevision="No"></Revision>
+    <Revision PageColor="#000064AF11B0" Mark="*" Color="#000064AF11B0" Style="" Name="Third Revision" ID="3" FullRevision="No"></Revision>
+    <Revision PageColor="#FC00F370052F" Mark="*" Color="#FC00F370052F" Style="" Name="Fourth Revision" ID="4" FullRevision="No"></Revision>
+  </Revisions>
+  <SceneNumberOptions ShowNumbersOnRight="YES" ShowNumbersOnLeft="YES" RightLocation="7.38" LeftLocation="0.75">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+  </SceneNumberOptions>
+  <SmartType>
+    <Characters></Characters>
+    <Extensions></Extensions>
+    <SceneIntros></SceneIntros>
+    <Locations></Locations>
+    <TimesOfDay></TimesOfDay>
+    <Transitions></Transitions>
+  </SmartType>
+  <SpellCheckIgnoreLists>
+    <IgnoredWords></IgnoredWords>
+    <IgnoredRanges></IgnoredRanges>
+  </SpellCheckIgnoreLists>
+  <TextState Scaling="0" ShowInvisibles="No" Selection="0,0"></TextState>
+  <CastList SortOption="Alphabetical">
+    <CustomOrder></CustomOrder>
+  </CastList>
+  <TitlePage>
+    <Content>
+      <Paragraph Alignment="Left" Leading="Regular" FirstIndent="0.00" StartsNewPage="No" RightIndent="7.50" LeftIndent="1.00" SpaceBefore="0" Spacing="1">
+        <Text></Text>
+      </Paragraph>
+    </Content>
+    <HeaderAndFooter>
+      <Header></Header>
+      <Footer></Footer>
+    </HeaderAndFooter>
+  </TitlePage>
+  <PageLayout BottomMargin="72" TopMargin="72" ForegroundColor="#000000000000" HeaderMargin="36" UsesSmartQuotes="Yes" FooterMargin="36" InvisiblesColor="#808080808080" DocumentLeading="Regular" BackgroundColor="#FFFFFFFFFFFF" BreakDialogueAndActionAtSentences="Yes">
+    <PageSize Height="11.000000" Width="8.500000"></PageSize>
+  </PageLayout>
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="7.50" LeftIndent="1.50" SpaceBefore="12" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="Action" PaginateAs="Action" Shortcut="4299741544"></Behavior>
+  </ElementSettings>
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="AllCaps" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="7.50" LeftIndent="1.50" SpaceBefore="0" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="Action" PaginateAs="Action" Shortcut="4299743752"></Behavior>
+  </ElementSettings>
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="AllCaps" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="7.25" LeftIndent="3.50" SpaceBefore="12" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="Dialogue" PaginateAs="Character" Shortcut="4299741576"></Behavior>
+  </ElementSettings>
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="6.00" LeftIndent="2.50" SpaceBefore="0" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="Action" PaginateAs="Dialogue" Shortcut="4299743656"></Behavior>
+  </ElementSettings>
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="7.50" LeftIndent="1.50" SpaceBefore="0" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="General" PaginateAs="General" Shortcut="4299740424"></Behavior>
+  </ElementSettings>
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="5.50" LeftIndent="3.00" SpaceBefore="0" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="Dialogue" PaginateAs="Parenthetical" Shortcut="4299743624"></Behavior>
+  </ElementSettings>
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="AllCaps" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="7.50" LeftIndent="1.50" SpaceBefore="12" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="Action" PaginateAs="Scene Heading" Shortcut="4299740456"></Behavior>
+  </ElementSettings>
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="AllCaps" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="7.50" LeftIndent="1.50" SpaceBefore="24" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="Action" PaginateAs="Scene Heading" Shortcut="4299743720"></Behavior>
+  </ElementSettings>
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="AllCaps" TagNumber="0" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <ParagraphSpec StartsNewPage="No" Spacing="1" Alignment="Left" FirstIndent="0.00" RightIndent="7.12" LeftIndent="5.50" SpaceBefore="12" Leading="Regular"></ParagraphSpec>
+    <Behavior ReturnKey="Scene Heading" PaginateAs="Transition" Shortcut="4299743688"></Behavior>
+  </ElementSettings>
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Size="12" Color="#000000000000" Style="" Font="Courier Final Draft" RevisionID="0" Background="#FFFFFFFFFFFF"></FontSpec>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" TopOfNext="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)"></DialogueBreaks>
+    <SceneBreaks SceneBottomOfPage="No" SceneTop="CONTINUED:" ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneTopOfNext="No"></SceneBreaks>
+  </MoresAndContinueds>
+  <LockedPages></LockedPages>
+  <CharacterHighlighting></CharacterHighlighting>
+  <DeletedText></DeletedText>
+  <ScriptNotes></ScriptNotes>
+  <ListItems></ListItems>
+  <Outline Paragraphs="Show" StructureLines="Show"></Outline>
+</svg>
