@@ -285,6 +285,10 @@ h1 {
 }
 
 @media (max-width: 800px) {
+  body {
+    margin-top:75px;
+  }
+  
   .site-header {
     height: 86px;
     padding: 0 6vw;
